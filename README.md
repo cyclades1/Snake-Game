@@ -1,2 +1,2 @@
-# Python
-Here I've gathered some of my Python related works.
+# Snake Game
+This is the basic python game of snake.
